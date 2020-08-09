@@ -5,23 +5,26 @@
 
 ## Usage
 
-``` bash
-# Install dependencies
-npm install
+Install dependencies
 
-# Preview on device
-tns preview
+`npm install`
 
-# Build, watch for changes and run the application
-tns run
+Preview on device
 
-# Build, watch for changes and debug the application
-tns debug <platform>
+`tns preview`
 
-# Build for production
-tns build <platform> --env.production
 
-```
+Build, watch for changes and run the application
+
+`tns run`
+
+Build, watch for changes and debug the application
+
+`tns debug <platform>`
+
+Build for production
+
+`tns build <platform> --env.production`
 
 ###### by promise333
 
