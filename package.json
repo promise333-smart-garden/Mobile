@@ -1,6 +1,6 @@
 {
   "name": "smart_garden",
-  "version": "1.0.0",
+  "version": "v1.0.0-preAlpha",
   "description": "A native application built with NativeScript-Vue",
   "author": "Joshua Pattullo <joshua@pattullo.tech>",
   "license": "GPL-3.0",
